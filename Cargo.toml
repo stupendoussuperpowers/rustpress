@@ -11,4 +11,4 @@ strum = "0.25"
 strum_macros = "0.25"
 
 [features]
-x86_64-unix = ["x86_64"]
+x86_64-unix
